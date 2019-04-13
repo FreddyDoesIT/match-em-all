@@ -93,6 +93,7 @@ function shuffle(array) {
   return array;
 }
 
+// adding a comment here would be more clear
 function searchTree(chain, name) {
   if (chain.species.name === name) {
     return chain.evolves_to.map(poke =>
@@ -243,7 +244,7 @@ Meteor.methods({
     if (!Meteor.isServer) {
       return;
     }
-    check(index, Number);
+    check(index, Number); // it is good that you check the parameter
 
     let key = "board." + index.toString();
     //console.log(key);
