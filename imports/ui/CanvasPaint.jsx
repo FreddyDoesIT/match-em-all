@@ -27,7 +27,8 @@ class CanvasPaint extends Component {
 
   componentDidUpdate() {
   }
-
+  
+  // good naming and comments
   onClick(x, evt) {
     
     Meteor.call("pokemon.flip", x);//flip x
