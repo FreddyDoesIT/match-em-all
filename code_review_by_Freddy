@@ -1,0 +1,17 @@
+Amazed by the clean and clear file structure with files putting into folders where they belong to.
+
+Also astonished by the complexity of your application.
+
+Overall I love your application. The style, and the game logic.
+
+Though I have some minor suggestions for your reference.
+
+1. I think you can try different combination of the color in your landing page. 
+I know you want to use red, black and white to make it in line with the style of poke ball. 
+You can see the main is red and white whereas the red take much more space than white.
+ 
+2. Maybe you can also try when a user logs out, he/she should exit the game. Now it keeps in it the next time he/she logs in.
+   Until other user kills the game.
+   
+
+Now let's make it short and I am going to play it for a while. :)
